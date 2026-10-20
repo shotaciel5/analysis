@@ -1,0 +1,19 @@
+{
+  "models": [
+    "cat_deep",
+    "lgb_components",
+    "cat_components",
+    "xgb_weather"
+  ],
+  "weights": [
+    0.4952224686703541,
+    0.4112346993906138,
+    0.0935428319390322,
+    0.0
+  ],
+  "development_rmsle": 0.2682236842662051,
+  "best_single": "cat_deep",
+  "best_single_development_rmsle": 0.2719593256081828,
+  "blend_leave_one_fold_out_mean": 0.2660543835710226,
+  "method": "nonnegative convex blend of log1p predictions; top 4 development models"
+}

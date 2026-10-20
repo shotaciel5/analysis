@@ -1,0 +1,68 @@
+{
+  "train_rows": 10886,
+  "test_rows": 6493,
+  "train_missing_cells": 0,
+  "test_missing_cells": 0,
+  "train_duplicate_timestamps": 0,
+  "test_duplicate_timestamps": 0,
+  "train_test_timestamp_overlap": 0,
+  "missing_hours_in_combined_calendar": 165,
+  "train_days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "test_days": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "component_sum_equals_count": true,
+  "zero_windspeed_rate": 0.12061363218813155,
+  "weather_frequencies_train": {
+    "1": 7192,
+    "2": 2834,
+    "3": 859,
+    "4": 1
+  },
+  "weather_frequencies_test": {
+    "1": 4221,
+    "2": 1710,
+    "3": 560,
+    "4": 2
+  },
+  "target_quantiles": {
+    "0.0": 1.0,
+    "0.25": 42.0,
+    "0.5": 145.0,
+    "0.75": 284.0,
+    "0.95": 563.75,
+    "0.99": 774.1499999999996,
+    "1.0": 977.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fold": "2012-12",
+  "train_rows": 10670,
+  "validation_rows": 216,
+  "baseline_rmsle": 0.4033380472555964,
+  "best_single_rmsle": 0.25429625605914286,
+  "blend_rmsle": 0.24462282478205777
+}
